@@ -32,13 +32,13 @@ video {
 
 @font-face {
   font-family: "Jetbrains Mono Bold";
-  src: url(/starter-code/assets/fonts/JetBrainsMono-VariableFont_wght.ttf);
+  src: url(/assets/fonts/JetBrainsMono-VariableFont_wght.ttf);
   font-weight: bold;
 }
 
 @font-face {
   font-family: "Jetbrains Mono Italic";
-  src: url(/starter-code/assets/fonts/JetBrainsMono-Italic-VariableFont_wght.ttf);
+  src: url(/assets/fonts/JetBrainsMono-Italic-VariableFont_wght.ttf);
   font-weight: italic;
 }
 
